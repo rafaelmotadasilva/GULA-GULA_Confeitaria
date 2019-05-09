@@ -78,6 +78,11 @@ session_start();
                 <li class="nav-item">
                   <a class="nav-link" href="contato.php"><font face="Carter One">Contato</font></a>
                 </li>  
+                <li class="nav-item">
+                  <a href="https://github.com/rafaelmotadasilva/GULA-GULA_Confeitaria" class="nav-link" title="GitHub">
+                    <i class="fab fa-github"></i>
+                  </a>
+                </li>
               </ul>
             </div> 
           </div>
